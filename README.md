@@ -44,4 +44,13 @@ Practice learn the ruby hard way
 <li>Ex39: Hashes, Oh Lovely Hashes</li>
 <li>Ex40: Modules, Classes, and Objects</li>
 <li>Ex41: Object Oriented </li>
+<li>Ex42: Is-A, Has-A, Objects, and Classes</li>
+<li>Ex43: Basic Object-Oriented Analysis and Design</li>
+<li>Ex44: Inheritance Versus Composition</li>
+<li>Ex45: You make a game</li>
+<li>Ex46: A Project Skeleton</li>
+<li>Ex47: Automate Testing</li>
+<li>Ex48: Advanced User Input</li>
+<li>Ex49: Making sentences</li>
+<li>Ex50: Your First Website</li>
 </div>
